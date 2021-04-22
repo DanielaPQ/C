@@ -1,3 +1,6 @@
+/*como compilar: complia en gdb, agregar el archivo main.c (este), agregar el hw5.c y el hw5.h*/
+/*Al correr el programa: selecionar 0 para jugar modo facil (10 filas x 10 columnas), 1 para modo difícil (teclear numero de filas y columnas)*/
+
 #include <assert.h>		
 #include <ctype.h>		
 #include <stdio.h>		
