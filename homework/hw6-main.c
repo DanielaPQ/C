@@ -1,3 +1,4 @@
+/* incluir: main.c, tree.c y tree.h. solo agrega usuarios :| */
 /* contiene las subrutinas para agregar, eliminar usuarios, imprimir el contenido del árbol */
 #include <stdio.h> // printf
 #include <stdlib.h> // malloc & free
