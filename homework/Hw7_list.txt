@@ -1,9 +1,0 @@
-1 mario Tuesday 7 19
-1 mario Thursday 8 20
-2 ana Monday 6 18
-2 ana Friday 9 21
-3 pepe Tuesday 8 20
-3 pepe Saturday 7 19
-4 juan Wednesday 8 20
-4 juan Monday 6 18 
-
