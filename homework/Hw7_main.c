@@ -1,3 +1,5 @@
+/*Incluir los archivos: main.c, functions.h, list.txt. Antes de correr el programa: darle un enter al archivo "list.txt" para que el puntero inicie en la línea 9.
+Si imprime la opción 3 "Show attendance records" solo q es necesario darle scroll para arriba para poder visualizar el texto impreso. */
 #include <stdio.h>
 #include <stdlib.h>
 #include "functions.h"
