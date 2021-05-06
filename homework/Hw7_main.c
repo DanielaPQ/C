@@ -229,4 +229,4 @@ void mostrarReporte ()
  fclose(pRecord);
 } 
  
-
+/*I implemented a code from https://github.com/satuelisa/Ch7 */
