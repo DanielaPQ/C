@@ -11,5 +11,6 @@ The second option (Pay) will ask to enter a user with its respective password, i
 The third option (Exit) will take us out of the program.
 
 ## Bibliography
-https://github.com/satuelisa/C/blob/main/Ch7/archivo.c
-https://github.com/DanielaPQ/C/blob/main/homework/Hw7_main.c
+https://github.com/satuelisa/C/blob/main/Ch7/archivo.c \n
+https://github.com/DanielaPQ/C/blob/main/homework/Hw7_main.c \n
+https://youtu.be/5CI6bMw85UE
