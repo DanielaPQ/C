@@ -1,4 +1,8 @@
-# Hotel front desk
+# Link to demonstration video
+https://youtu.be/PRU9arDhT04
+
+
+## Hotel front desk
 This program is designed to perform the functions of check-in, check-out of a hotel. 
 In order to execute the program we must add "main.c", "functions.h" and "guests.c", which can be empty or with less than 5 lines. 
 
@@ -15,6 +19,4 @@ https://github.com/satuelisa/C/blob/main/Ch7/archivo.c
 https://youtu.be/37MohLR6o5s  
 https://github.com/DanielaPQ/C/blob/main/homework/Hw7_main.c  
 https://youtu.be/5CI6bMw85UE
-
-## Link to the demonstration video
-https://youtu.be/PRU9arDhT04
+With the help of Systems Engineer Norma Carrillo
