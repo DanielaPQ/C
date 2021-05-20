@@ -1,5 +1,0 @@
-1 Sebastian h56 300 50 0
-3 Julio 789 500 0 150
-5 Gil gro 300 0 0
-6 Lupe 1256 500 50 150
-5 Renata 753 300 50 150
