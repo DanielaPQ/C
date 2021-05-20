@@ -21,7 +21,7 @@ https://github.com/DanielaPQ/C/blob/main/homework/Hw7_main.c
 https://youtu.be/5CI6bMw85UE    
 With the help of Systems Engineer Norma Carrillo
 
-## Self appraisal
+## Self assessment
 complexity 2 (neither too complicated nor too simple).   
 functionality 2 (one thing I tried to add didn't worked).   
 code 3(I cleaned it up, I added the necesary comments, variable names are related).   
