@@ -22,6 +22,9 @@ https://youtu.be/5CI6bMw85UE
 With the help of Systems Engineer Norma Carrillo
 
 ## Self appraisal
-complexity 2 (neither too complicated nor too simple).    functionality 2 (one thing I tried to add didn't worked).   code 3(I clean it up, I added the necesary comments, variable 
-names are related).   storage 3 (I used files .c, .h and .txt, I used a structure).    documentation 2 ( spelling is correct, the video quality is not the best but I explain in 
-detail the functionality of the code).    12/15
+complexity 2 (neither too complicated nor too simple).
+functionality 2 (one thing I tried to add didn't worked).   
+code 3(I cleaned it up, I added the necesary comments, variable names are related).   
+storage 3 (I used files .c, .h and .txt, I used a structure).    
+documentation 2 ( spelling is correct, the video quality is not the best but I explain in detail the functionality of the code).   
+12/15
