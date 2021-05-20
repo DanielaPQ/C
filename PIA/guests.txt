@@ -1,5 +1,3 @@
-
 3 Sandra 789 300 50 150
 6 Gil gro 500 0 150
 3 Dany PQ10 300 0 0
-6 Mario 456 300 50 0
