@@ -1,6 +1,6 @@
 # Hotel front desk
 This program is designed to perform the functions of check-in, check-out of a hotel. 
-In order to execute the program we must add "main.c", "functions.h" and "guests.c", which is empty. 
+In order to execute the program we must add "main.c", "functions.h" and "guests.c", which can be empty or with less than 5 lines. 
 
 ## How to use it
 The first thing that will appear on the screen will be the menu which has 3 options: 1.-Reserve room, 2.-Pay and 3.-Exit.    
