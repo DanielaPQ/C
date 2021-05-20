@@ -15,3 +15,6 @@ https://github.com/satuelisa/C/blob/main/Ch7/archivo.c
 https://youtu.be/37MohLR6o5s  
 https://github.com/DanielaPQ/C/blob/main/homework/Hw7_main.c  
 https://youtu.be/5CI6bMw85UE
+
+## Link to the demonstration video
+https://youtu.be/PRU9arDhT04
